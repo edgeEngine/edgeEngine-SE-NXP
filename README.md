@@ -3,13 +3,12 @@
 edgeEngine Linux-ARM aarch64 for NXP S32G Vehicle Integration Platform (GoldVIP) S32G2.
 
 NXP GoldVIP deliverable includes Xen hypervisor and by default, GoldVIP starts a privileged Linux virtual machine named 
-(Dom0 or Domain-0). This version of edgeEngine-SE-NXP runs on Domain-0 VM Linux
+(Dom0 or Domain-0). This version of edgeEngine-SE-NXP runs on Domain-0 VM Linux.
 
 ## Before you start  
 
 edgeEngine-SE-NXP needs a special license(mimikEdge.lic) to run the edgeEngine binary.
-To get mimikEdge.lic, please get in touch with mimik at [mimik-support](https://developer.mimik.com/support/)
-or email support.sdk@mimik.com
+To get mimikEdge.lic, please email support.sdk@mimik.com
 
  [explore the developer resources & documentation](https://developer.mimik.com)
  
